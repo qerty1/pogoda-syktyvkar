@@ -1,4 +1,3 @@
-vk.py
 aiohttp
 websockets
 chardet
